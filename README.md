@@ -1,2 +1,2 @@
-# Abhi-s-Resume
+# Resume
 My resume made with html
