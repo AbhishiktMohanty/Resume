@@ -1,0 +1,87 @@
+
+#header{
+    background-color: #fdfcdc;
+    border-radius: 5px;
+}
+
+.career{
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: #fed9b7;
+}
+
+.rightbody{
+    border-radius: 6px;
+    background-color: #00afb9;
+}
+.rightheading{
+    border-radius: 6px;
+    padding-top: 1px;
+    font-size: medium;
+    background-color: #4361ee
+}
+.table {
+    border-radius: 6px;
+    background-color: #00afb9;
+    column-gap: 1000px;
+    height: auto;
+}
+
+.skillheading{
+    border-radius: 6px;
+    padding:1px;
+    font-size: medium;
+    background-color: #4361ee;
+}
+
+#skillpadding{
+    /* background-color: #00afb9; */
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.skillbody{
+    background-color: #00afb9;
+    margin: 0px;
+    border-bottom-right-radius: 6px;
+}
+hr{
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline: auto;
+    margin-inline-end: auto;
+}
+.leftheader{
+    border-radius: 6px;
+    padding-top: .5px;
+    font-size: medium;
+    background-color: #f07167;
+}
+.leftbody{
+
+    border-radius: 6px;
+    background-color: #fed9b7;
+}
+
+.contactheader{
+    background-color: #4361ee;
+    border-radius: 6px;
+    padding-top: 1px;
+    font-size: medium;
+}
+
+.contactbody{
+    background-color: #4cc9f0;
+    border-radius: 6px;
+}
+
+.declareheader{
+    background-color: #06d6a0;
+    border-radius: 6px;
+    padding-top: 1px;
+    font-size: medium;
+}
+
+.declarebody{
+    background-color: #f8ffe5;
+    border-radius: 6px;
+}
